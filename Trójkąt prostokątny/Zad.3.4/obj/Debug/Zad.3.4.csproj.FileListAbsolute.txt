@@ -1,0 +1,14 @@
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.3.4\Zad.3.4\obj\Debug\Zad.3.4.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.3.4\Zad.3.4\obj\Debug\Zad.3.4.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.3.4\Zad.3.4\bin\Debug\Zad.3.4.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.3.4\Zad.3.4\bin\Debug\Zad.3.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.3.4\Zad.3.4\bin\Debug\Zad.3.4.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.3.4\Zad.3.4\obj\Debug\Zad.3.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\Zad.3.4\Zad.3.4\obj\Debug\Zad.3.4.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.3.4\Zad.3.4\bin\Debug\Zad.3.4.exe.config
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.3.4\Zad.3.4\bin\Debug\Zad.3.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.3.4\Zad.3.4\bin\Debug\Zad.3.4.pdb
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.3.4\Zad.3.4\obj\Debug\Zad.3.4.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.3.4\Zad.3.4\obj\Debug\Zad.3.4.csproj.CoreCompileInputs.cache
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.3.4\Zad.3.4\obj\Debug\Zad.3.4.exe
+C:\Programowanie\Visual Studio 2017\Projekty\I rok\Zad.3.4\Zad.3.4\obj\Debug\Zad.3.4.pdb
